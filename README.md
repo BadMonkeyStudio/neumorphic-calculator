@@ -1,6 +1,6 @@
 # neumorphic-calculator
 
-Basic calculator created to present neumorphism styling.
+Simple calculator created to present neumorphism styling.
 
 Calculator has basic functionality.
 
